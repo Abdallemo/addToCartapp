@@ -26,6 +26,7 @@ Structure a web application using HTML, CSS, and JavaScript.
 Handle asynchronous operations in JavaScript.
 
 ## Future Improvements
-User Authentication: Add user authentication to allow users to save their cart between sessions.
-Enhanced UI/UX: Improve the design and usability of the app.
-Additional Features: Implement features such as item quantity management, total price calculation, and checkout process.
+- [x] ~~User Authentication: Add user authentication to allow users to save their cart between sessions.~~
+- [x] ~~Enhanced UI/UX: Improve the design and usability of the app.~~
+- [ ] Additional Features: Implement features such as item quantity management, total price calculation, and checkout process.
+
